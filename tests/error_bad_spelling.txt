@@ -1,0 +1,7 @@
+if c < id THEn
+  id := c
+els
+  while c < c + id do
+    id := id
+  end
+enif

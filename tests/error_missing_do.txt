@@ -1,0 +1,11 @@
+if c < id then
+  id := c
+else
+  id := id
+endif ;
+
+while c - id != c + id
+    while c = c do
+        id := id + c + id
+    end
+end

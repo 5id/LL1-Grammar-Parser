@@ -1,0 +1,78 @@
+                                          $ L
+                                          $ L1 I
+                                          $ L1 C
+                                          $ L1 endif O L then E if
+if                                         $ L1 endif O L then E
+if                                         $ L1 endif O L then E1 E2
+if                                         $ L1 endif O L then E1 E3 T
+if                                         $ L1 endif O L then E1 E3 c
+if c                                        $ L1 endif O L then E1 E3
+if c                                        $ L1 endif O L then E1
+if c                                        $ L1 endif O L then E1 E2 Op1
+if c                                        $ L1 endif O L then E1 E2 <
+if c <                                       $ L1 endif O L then E1 E2
+if c <                                       $ L1 endif O L then E1 E3 T
+if c <                                       $ L1 endif O L then E1 E3 id
+if c < id                                      $ L1 endif O L then E1 E3
+Spelling mistake: THEn corrected to then
+if c < id                                      $ L1 endif O L then E1
+if c < id                                      $ L1 endif O L then
+if c < id then                                     $ L1 endif O L
+if c < id then                                     $ L1 endif O L1 I
+if c < id then                                     $ L1 endif O L1 A
+if c < id then                                     $ L1 endif O L1 E := id
+if c < id then id                                    $ L1 endif O L1 E :=
+if c < id then id :=                                   $ L1 endif O L1 E
+if c < id then id :=                                   $ L1 endif O L1 E1 E2
+if c < id then id :=                                   $ L1 endif O L1 E1 E3 T
+if c < id then id :=                                   $ L1 endif O L1 E1 E3 c
+if c < id then id := c                                  $ L1 endif O L1 E1 E3
+Spelling mistake: els corrected to else
+if c < id then id := c                                  $ L1 endif O L1 E1
+if c < id then id := c                                  $ L1 endif O L1
+if c < id then id := c                                  $ L1 endif O
+if c < id then id := c                                  $ L1 endif L else
+if c < id then id := c else                                 $ L1 endif L
+if c < id then id := c else                                 $ L1 endif L1 I
+if c < id then id := c else                                 $ L1 endif L1 W
+if c < id then id := c else                                 $ L1 endif L1 end L do E while
+if c < id then id := c else while                                $ L1 endif L1 end L do E
+if c < id then id := c else while                                $ L1 endif L1 end L do E1 E2
+if c < id then id := c else while                                $ L1 endif L1 end L do E1 E3 T
+if c < id then id := c else while                                $ L1 endif L1 end L do E1 E3 c
+if c < id then id := c else while c                               $ L1 endif L1 end L do E1 E3
+if c < id then id := c else while c                               $ L1 endif L1 end L do E1
+if c < id then id := c else while c                               $ L1 endif L1 end L do E1 E2 Op1
+if c < id then id := c else while c                               $ L1 endif L1 end L do E1 E2 <
+if c < id then id := c else while c <                              $ L1 endif L1 end L do E1 E2
+if c < id then id := c else while c <                              $ L1 endif L1 end L do E1 E3 T
+if c < id then id := c else while c <                              $ L1 endif L1 end L do E1 E3 c
+if c < id then id := c else while c < c                             $ L1 endif L1 end L do E1 E3
+if c < id then id := c else while c < c                             $ L1 endif L1 end L do E1 E2 Op2
+if c < id then id := c else while c < c                             $ L1 endif L1 end L do E1 E2 +
+if c < id then id := c else while c < c +                            $ L1 endif L1 end L do E1 E2
+if c < id then id := c else while c < c +                            $ L1 endif L1 end L do E1 E3 T
+if c < id then id := c else while c < c +                            $ L1 endif L1 end L do E1 E3 id
+if c < id then id := c else while c < c + id                           $ L1 endif L1 end L do E1 E3
+if c < id then id := c else while c < c + id                           $ L1 endif L1 end L do E1
+if c < id then id := c else while c < c + id                           $ L1 endif L1 end L do
+if c < id then id := c else while c < c + id do                          $ L1 endif L1 end L
+if c < id then id := c else while c < c + id do                          $ L1 endif L1 end L1 I
+if c < id then id := c else while c < c + id do                          $ L1 endif L1 end L1 A
+if c < id then id := c else while c < c + id do                          $ L1 endif L1 end L1 E := id
+if c < id then id := c else while c < c + id do id                         $ L1 endif L1 end L1 E :=
+if c < id then id := c else while c < c + id do id :=                        $ L1 endif L1 end L1 E
+if c < id then id := c else while c < c + id do id :=                        $ L1 endif L1 end L1 E1 E2
+if c < id then id := c else while c < c + id do id :=                        $ L1 endif L1 end L1 E1 E3 T
+if c < id then id := c else while c < c + id do id :=                        $ L1 endif L1 end L1 E1 E3 id
+if c < id then id := c else while c < c + id do id := id                       $ L1 endif L1 end L1 E1 E3
+if c < id then id := c else while c < c + id do id := id                       $ L1 endif L1 end L1 E1
+if c < id then id := c else while c < c + id do id := id                       $ L1 endif L1 end L1
+if c < id then id := c else while c < c + id do id := id                       $ L1 endif L1 end
+if c < id then id := c else while c < c + id do id := id end                      $ L1 endif L1
+Spelling mistake: enif corrected to endif
+if c < id then id := c else while c < c + id do id := id end                      $ L1 endif
+if c < id then id := c else while c < c + id do id := id end endif                     $ L1
+if c < id then id := c else while c < c + id do id := id end endif                     $
+if c < id then id := c else while c < c + id do id := id end endif                     
+Rejected - (3 Errors Found)

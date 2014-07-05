@@ -1,0 +1,114 @@
+                                          $ L
+                                          $ L1 I
+                                          $ L1 C
+                                          $ L1 endif O L then E if
+if                                         $ L1 endif O L then E
+if                                         $ L1 endif O L then E1 E2
+if                                         $ L1 endif O L then E1 E3 T
+if                                         $ L1 endif O L then E1 E3 c
+if c                                        $ L1 endif O L then E1 E3
+if c                                        $ L1 endif O L then E1
+if c                                        $ L1 endif O L then E1 E2 Op1
+if c                                        $ L1 endif O L then E1 E2 <
+if c <                                       $ L1 endif O L then E1 E2
+if c <                                       $ L1 endif O L then E1 E3 T
+if c <                                       $ L1 endif O L then E1 E3 id
+if c < id                                      $ L1 endif O L then E1 E3
+if c < id                                      $ L1 endif O L then E1
+if c < id                                      $ L1 endif O L then
+if c < id then                                     $ L1 endif O L
+if c < id then                                     $ L1 endif O L1 I
+if c < id then                                     $ L1 endif O L1 A
+if c < id then                                     $ L1 endif O L1 E := id
+if c < id then id                                    $ L1 endif O L1 E :=
+if c < id then id :=                                   $ L1 endif O L1 E
+if c < id then id :=                                   $ L1 endif O L1 E1 E2
+if c < id then id :=                                   $ L1 endif O L1 E1 E3 T
+if c < id then id :=                                   $ L1 endif O L1 E1 E3 c
+if c < id then id := c                                  $ L1 endif O L1 E1 E3
+if c < id then id := c                                  $ L1 endif O L1 E1
+if c < id then id := c                                  $ L1 endif O L1
+if c < id then id := c                                  $ L1 endif O
+if c < id then id := c                                  $ L1 endif L else
+if c < id then id := c else                                 $ L1 endif L
+if c < id then id := c else                                 $ L1 endif L1 I
+if c < id then id := c else                                 $ L1 endif L1 A
+if c < id then id := c else                                 $ L1 endif L1 E := id
+if c < id then id := c else id                                $ L1 endif L1 E :=
+if c < id then id := c else id :=                               $ L1 endif L1 E
+if c < id then id := c else id :=                               $ L1 endif L1 E1 E2
+if c < id then id := c else id :=                               $ L1 endif L1 E1 E3 T
+if c < id then id := c else id :=                               $ L1 endif L1 E1 E3 id
+if c < id then id := c else id := id                              $ L1 endif L1 E1 E3
+if c < id then id := c else id := id                              $ L1 endif L1 E1
+if c < id then id := c else id := id                              $ L1 endif L1
+if c < id then id := c else id := id                              $ L1 endif
+if c < id then id := c else id := id endif                             $ L1
+if c < id then id := c else id := id endif                             $ L ;
+if c < id then id := c else id := id endif ;                            $ L
+if c < id then id := c else id := id endif ;                            $ L1 I
+if c < id then id := c else id := id endif ;                            $ L1 W
+if c < id then id := c else id := id endif ;                            $ L1 end L do E while
+if c < id then id := c else id := id endif ; while                           $ L1 end L do E
+if c < id then id := c else id := id endif ; while                           $ L1 end L do E1 E2
+if c < id then id := c else id := id endif ; while                           $ L1 end L do E1 E3 T
+if c < id then id := c else id := id endif ; while                           $ L1 end L do E1 E3 c
+if c < id then id := c else id := id endif ; while c                          $ L1 end L do E1 E3
+if c < id then id := c else id := id endif ; while c                          $ L1 end L do E1 E2 Op2
+if c < id then id := c else id := id endif ; while c                          $ L1 end L do E1 E2 -
+if c < id then id := c else id := id endif ; while c -                         $ L1 end L do E1 E2
+if c < id then id := c else id := id endif ; while c -                         $ L1 end L do E1 E3 T
+if c < id then id := c else id := id endif ; while c -                         $ L1 end L do E1 E3 id
+if c < id then id := c else id := id endif ; while c - id                        $ L1 end L do E1 E3
+if c < id then id := c else id := id endif ; while c - id                        $ L1 end L do E1
+if c < id then id := c else id := id endif ; while c - id                        $ L1 end L do E1 E2 Op1
+if c < id then id := c else id := id endif ; while c - id                        $ L1 end L do E1 E2 !=
+if c < id then id := c else id := id endif ; while c - id !=                       $ L1 end L do E1 E2
+if c < id then id := c else id := id endif ; while c - id !=                       $ L1 end L do E1 E3 T
+if c < id then id := c else id := id endif ; while c - id !=                       $ L1 end L do E1 E3 c
+if c < id then id := c else id := id endif ; while c - id != c                      $ L1 end L do E1 E3
+if c < id then id := c else id := id endif ; while c - id != c                      $ L1 end L do E1 E2 Op2
+if c < id then id := c else id := id endif ; while c - id != c                      $ L1 end L do E1 E2 +
+if c < id then id := c else id := id endif ; while c - id != c +                     $ L1 end L do E1 E2
+if c < id then id := c else id := id endif ; while c - id != c +                     $ L1 end L do E1 E3 T
+if c < id then id := c else id := id endif ; while c - id != c +                     $ L1 end L do E1 E3 id
+if c < id then id := c else id := id endif ; while c - id != c + id                    $ L1 end L do E1 E3
+Expecting do instead of while
+if c < id then id := c else id := id endif ; while c - id != c + id do                   $ L1 end L
+Couldn't find expected then/end/$/do/=/else/endif/;/!=/<
+Expecting end instead of c
+if c < id then id := c else id := id endif ; while c - id != c + id do end                  $ L1
+Couldn't find expected while/id/if
+Grammar expected ;
+if c < id then id := c else id := id endif ; while c - id != c + id do end                  $ L ;
+if c < id then id := c else id := id endif ; while c - id != c + id do end ;                 $ L
+Consumed isolated string: = c do
+if c < id then id := c else id := id endif ; while c - id != c + id do end ;                 $ L1 I
+if c < id then id := c else id := id endif ; while c - id != c + id do end ;                 $ L1 A
+if c < id then id := c else id := id endif ; while c - id != c + id do end ;                 $ L1 E := id
+if c < id then id := c else id := id endif ; while c - id != c + id do end ; id                $ L1 E :=
+if c < id then id := c else id := id endif ; while c - id != c + id do end ; id :=               $ L1 E
+if c < id then id := c else id := id endif ; while c - id != c + id do end ; id :=               $ L1 E1 E2
+if c < id then id := c else id := id endif ; while c - id != c + id do end ; id :=               $ L1 E1 E3 T
+if c < id then id := c else id := id endif ; while c - id != c + id do end ; id :=               $ L1 E1 E3 id
+if c < id then id := c else id := id endif ; while c - id != c + id do end ; id := id              $ L1 E1 E3
+if c < id then id := c else id := id endif ; while c - id != c + id do end ; id := id              $ L1 E1 E2 Op2
+if c < id then id := c else id := id endif ; while c - id != c + id do end ; id := id              $ L1 E1 E2 +
+if c < id then id := c else id := id endif ; while c - id != c + id do end ; id := id +             $ L1 E1 E2
+if c < id then id := c else id := id endif ; while c - id != c + id do end ; id := id +             $ L1 E1 E3 T
+if c < id then id := c else id := id endif ; while c - id != c + id do end ; id := id +             $ L1 E1 E3 c
+if c < id then id := c else id := id endif ; while c - id != c + id do end ; id := id + c            $ L1 E1 E3
+if c < id then id := c else id := id endif ; while c - id != c + id do end ; id := id + c            $ L1 E1 E2 Op2
+if c < id then id := c else id := id endif ; while c - id != c + id do end ; id := id + c            $ L1 E1 E2 +
+if c < id then id := c else id := id endif ; while c - id != c + id do end ; id := id + c +           $ L1 E1 E2
+if c < id then id := c else id := id endif ; while c - id != c + id do end ; id := id + c +           $ L1 E1 E3 T
+if c < id then id := c else id := id endif ; while c - id != c + id do end ; id := id + c +           $ L1 E1 E3 id
+if c < id then id := c else id := id endif ; while c - id != c + id do end ; id := id + c + id          $ L1 E1 E3
+if c < id then id := c else id := id endif ; while c - id != c + id do end ; id := id + c + id          $ L1 E1
+if c < id then id := c else id := id endif ; while c - id != c + id do end ; id := id + c + id          $ L1
+if c < id then id := c else id := id endif ; while c - id != c + id do end ; id := id + c + id          $
+if c < id then id := c else id := id endif ; while c - id != c + id do end ; id := id + c + id          
+Consumed isolated string: end
+Couldn't find expected while/id/if
+if c < id then id := c else id := id endif ; while c - id != c + id do end ; id := id + c + id          
+Rejected - (5 Errors Found)

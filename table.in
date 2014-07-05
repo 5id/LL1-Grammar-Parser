@@ -1,0 +1,25 @@
+1|P->L|id,while,if
+2|L->I L1|id,while,if
+3|L1->; L|;
+4|L1->EPSILON|end,else,endif,$
+5|I->A|id
+6|I->C|if
+7|I->W|while
+8|A->id := E|id
+9|C->if E then L O endif|if
+10|O->else L|else
+11|O->EPSILON|endif
+12|W->while E do L end|while
+13|E->E2 E1|c,id
+14|E1->Op1 E2 E1|<,=,!=
+15|E1->EPSILON|do,then,end,else,endif,;,$
+16|E2->T E3|c,id
+17|E3->Op2 E2|+,-
+18|E3->EPSILON|<,=,!=,do,then,end,else,endif,;,$
+19|T->c|c
+20|T->id|id
+21|Op1-><|<
+22|Op1->=|=
+23|Op1->!=|!=
+24|Op2->+|+
+25|Op2->-|-
